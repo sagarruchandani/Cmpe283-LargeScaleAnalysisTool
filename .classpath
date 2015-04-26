@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jars/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="jars/axis.jar"/>
+	<classpathentry kind="lib" path="jars/axis2-ant-plugin-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="jars/commons-httpclient-3.1-beta1.jar"/>
+	<classpathentry kind="lib" path="jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jars/javacImpl-0.9.jar"/>
+	<classpathentry kind="lib" path="jars/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="jars/jsp-api.jar"/>
+	<classpathentry kind="lib" path="jars/mail.jar"/>
+	<classpathentry kind="lib" path="jars/pingservice.jar"/>
+	<classpathentry kind="lib" path="jars/saaj.jar"/>
+	<classpathentry kind="lib" path="jars/serverpool.jar"/>
+	<classpathentry kind="lib" path="jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="jars/vijava2120100824.jar" sourcepath="C:/Users/Sagar/.m2/repository/org/jvnet/hudson/vijava/2120100824/vijava-2120100824-sources.jar"/>
+	<classpathentry kind="lib" path="jars/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="jars/xml-apis.jar"/>
+	<classpathentry kind="lib" path="jars/mongo-java-driver-2.13.0-rc0.jar"/>
+	<classpathentry kind="lib" path="jars/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
